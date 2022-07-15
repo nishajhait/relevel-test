@@ -10,7 +10,6 @@ function checkOddEven(value) {
 checkOddEven(20)
 
 
-
 // Function to check Odd/Even using Ternary Operator
 function checkOddEvenTernary(value) {
 	var newValue = value % 2 == 0 ? "The given number is even" : "The given number is odd"
