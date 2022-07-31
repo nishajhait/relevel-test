@@ -4,5 +4,5 @@ function checkpalingdrom(num){
         x =num%10;
         sum =sum*10+x;
         num=
-    }
+
 }
